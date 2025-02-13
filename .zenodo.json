@@ -1,4 +1,7 @@
 {
+    "title": "Testing GitHub DOI Creation",
+    "description": "This is a test for me, creating Zenodo DOIs",
+    "license": "Apache-2.0",
     "creators": [
         {
             "orcid": "0009-0008-6857-0882",
@@ -6,15 +9,7 @@
             "name": "Robbertz, Andrew"
         }
     ],
-
-    "license": "Apache-2.0",
-
-    "title": "Testing GitHub DOI Creation",
-
-    "related_identifiers": [],
-
     "keywords": ["Test", "Zenodo", "Aloha"],
-
     "communities": [
         {"identifier": "software"}
     ]
