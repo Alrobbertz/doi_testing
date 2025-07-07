@@ -13,7 +13,8 @@
         {
             "name": "Steven Christe",
             "affiliation": "NASA Goddard Space Flight Center",
-            "orcid": "0000-0001-6127-795X"
+            "orcid": "0000-0001-6127-795X",
+            "type": "ProjectMember"
         }
     ],
     "keywords": ["Test", "Zenodo", "Aloha"],
