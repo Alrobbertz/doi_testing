@@ -7,6 +7,21 @@
             "orcid": "0009-0008-6857-0882",
             "affiliation": "Testing",
             "name": "Robbertz, Andrew"
+        },
+        {
+            "orcid": "0009-0008-6857-0882",
+            "affiliation": "Testing",
+            "name": "Co-Creator Name"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Steven Christe",
+            "affiliation": "NASA Goddard Space Flight Center",
+            "orcid": "0000-0001-6127-795X",
+        },
+        {
+            "name": "Co-Contributor Name",
         }
     ],
     "keywords": ["Test", "Zenodo", "Aloha"],
