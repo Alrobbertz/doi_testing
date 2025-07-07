@@ -21,7 +21,9 @@
             "orcid": "0000-0001-6127-795X"
         },
         {
-            "name": "Co-Contributor Name"
+            "name": "Co-Contributor Name",
+            "affiliation": "Testing",
+            "orcid": "0000-0002-1234-5678"
         }
     ],
     "keywords": ["Test", "Zenodo", "Aloha"],
