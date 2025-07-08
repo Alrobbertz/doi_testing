@@ -16,6 +16,12 @@
     ],
     "contributors": [
         {
+            "name": "Löfdahl, Mats G.",
+            "affiliation": "Institute for Solar Physics, Stockholm University",
+            "orcid": "0000-0002-2472-5677",
+            "type": "ProjectMember"
+        },
+        {
             "name": "Steven Christe",
             "affiliation": "NASA Goddard Space Flight Center",
             "orcid": "0000-0001-6127-795X",
